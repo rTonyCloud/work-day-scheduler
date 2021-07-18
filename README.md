@@ -1,12 +1,18 @@
-##Work-Day-Scheduler
+# PW Generator
 
-##What is Work Day Scheduler
-# A simple daily schedule tracker to help manage your day, set daily appointments and reminders for that hour of the day. 
+## A simple daily schedule tracker to help manage your day, set daily appointments and reminders for that hour of the day.
 
-##Coding Languages
-#HTML <b />
-#CSS <b />
-#JS <b />
+## Built With
 
-##Contribution
-# Tony Rivera 
+* JS / jquery / moment
+* HTML
+* CSS
+
+## Website
+
+
+
+## Contribution
+
+Made with ❤️ by Tony Rivera
+
